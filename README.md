@@ -1,4 +1,4 @@
-# Insurance Policy Management System
+# Insurance Policy Management System - NXU Assignment
 
 The Insurance Policy Management System is a Python project that simulates managing policyholders, insurance products, and payments. It is designed to demonstrate object-oriented programming and modular design by separating functionality into distinct classes across multiple files.
 
