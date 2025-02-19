@@ -25,3 +25,10 @@ The system is designed to be modular and extensible, making it a great starting 
   - Process payments with on-time or late scenarios.
   - Automatically apply a penalty (default is 5%) for late payments.
   - Send payment reminders for pending payments.
+
+
+
+- **For R, endeavour to install **# Load the R6 package (install with install.packages("R6") if needed)**
+**and run this on R or RStudio console**
+
+**source("insurance_policy_management.R") or any name you change to!**
